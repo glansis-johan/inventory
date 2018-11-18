@@ -1,0 +1,38 @@
+[
+    {
+      "id": "123456789",
+      "code": "640316",
+      "name": "Johan Staaf",
+      "description": "Developer",
+      "isactive": 1,
+      "changedby": "640316",
+      "changed": "201811181849",
+      "rowversion": "1", 
+      "age": 54,
+      "street": "Annebergsgatan 8a",
+      "zip": "21466",
+      "city": "MALMÖ",
+      "phone": "0702508514",
+      "email": "johan@glansis.se",
+      "login": "jostaaf",
+      "password": "6403"
+    },
+    {
+      "id": "111112",
+      "code": "640320",
+      "name": "Ulrika Staaf",
+      "description": "Teacher",
+      "isactive": 1,
+      "changedby": "670316",
+      "changed": "201811181849",
+      "rowversion": "1", 
+      "age": 54,
+      "street": "Annebergsgatan 10a",
+      "zip": "21157",
+      "city": "MALMÖ",
+      "phone": "0702123456",
+      "email": "ulrika@glansis.se",
+      "login": "ulstaaf",
+      "password": "6703"
+    }
+  ]
